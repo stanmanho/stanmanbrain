@@ -1,0 +1,19 @@
+.wl-reaction {
+    position: relative !important;
+    z-index: 1;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  
+  .wl-reaction-list {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    position: static !important;
+    transform: none !important;
+  }
+  
+  .wl-reaction-item {
+    position: relative !important;
+    margin: 0.5rem !important;
+  }

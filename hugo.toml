@@ -1,0 +1,38 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-tw'
+title = '屎蛋第二腦'
+theme = 'dream'
+defaultContentLanguage = 'en'
+canonifyurls = true
+
+[services]
+[services.googleAnalytics]
+ID = "8186948356"
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+avatar = 'images/stanmanBrain.png'
+author = "屎蛋"
+description = "是否有類式的經驗，每次看完書內的某的章節，感覺和過去看過的哪本書很像，可是就是想不起來，然後再過幾天，我學過的知識點就忘了。既然我的腦袋這麼會忘記，何不我就把學過的知識丟到我的第二腦，然後我就可以安心的忘掉，這就是這個網站誕生的由來了"
+headerTitle = "屎蛋第二腦"
+motto = "腦袋是用來思考的 而不是用來記東西的"
+footerBottomText = "🌱 powered by Stan Man Brain."
+
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+
+reorderShares = ["facebook", "instagram"]
+
+rss = true
+
+reorderNavItems = ["search", "about", "categories", "tags" , "rss"]
+
+
+waline = true
+walineServer = "https://waline-iota-dusky.vercel.app/"
+
+[params.advanced]
+customCSS = ["css/custom.css"]

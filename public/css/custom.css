@@ -1,0 +1,11 @@
+.wl-reaction {
+  overflow: visible !important;
+  max-height: none !important;
+  padding: 1rem 0;
+}
+
+.wl-reaction-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
