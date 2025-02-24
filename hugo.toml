@@ -7,7 +7,7 @@ canonifyurls = true
 
 [services]
 [services.googleAnalytics]
-ID = "8186948356"
+ID = "G-R8MEP81V9S"
 
 [params]
 lightTheme = "emerald"
