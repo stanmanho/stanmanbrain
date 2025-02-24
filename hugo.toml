@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://stanmanbrain.netlify.app/'
 languageCode = 'zh-tw'
 title = '屎蛋第二腦'
 theme = 'dream'
