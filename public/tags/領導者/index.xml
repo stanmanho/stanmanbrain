@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>屎蛋第二腦</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 屎蛋第二腦</description>
+    <title>領導者 on 屎蛋第二腦</title>
+    <link>http://localhost:1313/tags/%E9%A0%98%E5%B0%8E%E8%80%85/</link>
+    <description>Recent content in 領導者 on 屎蛋第二腦</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 26 Feb 2025 11:03:31 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%A0%98%E5%B0%8E%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>領導從溝通開始</title>
       <link>http://localhost:1313/posts/%E9%A0%98%E5%B0%8E%E5%BE%9E%E6%BA%9D%E9%80%9A%E9%96%8B%E5%A7%8B/</link>
       <pubDate>Wed, 26 Feb 2025 11:03:31 +0800</pubDate>
       <guid>http://localhost:1313/posts/%E9%A0%98%E5%B0%8E%E5%BE%9E%E6%BA%9D%E9%80%9A%E9%96%8B%E5%A7%8B/</guid>
       <description>&lt;h1 id=&#34;領導從溝通開始---讀書筆記&#34;&gt;領導從溝通開始 - 讀書筆記&lt;/h1&gt;&#xA;&lt;h2 id=&#34;核心概念&#34;&gt;核心概念&lt;/h2&gt;&#xA;&lt;p&gt;領導力的基礎在於有效的溝通，而溝通的核心在於建立信任。高效的領導溝通能夠傳達願景、激勵團隊並建立穩固的信任關係。&lt;/p&gt;&#xA;&lt;h2 id=&#34;溝通的關鍵要素&#34;&gt;溝通的關鍵要素&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-明確性與誠實&#34;&gt;1. 明確性與誠實&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;提供明確的主題和回答&lt;/li&gt;&#xA;&lt;li&gt;永遠只說真話，不掩飾壞消息&lt;/li&gt;&#xA;&lt;li&gt;言行一致，保持透明度&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-精煉與策略&#34;&gt;2. 精煉與策略&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;將領導中心思想濃縮成30秒語錄&lt;/li&gt;&#xA;&lt;li&gt;選擇合適的溝通策略&lt;/li&gt;&#xA;&lt;li&gt;有效使用電子溝通管道&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-正面與生動&#34;&gt;3. 正面與生動&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;用肯定的內容延續訊息&lt;/li&gt;&#xA;&lt;li&gt;運用故事技巧增加內容特色&lt;/li&gt;&#xA;&lt;li&gt;強化訊息的印象與記憶&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;實踐要點&#34;&gt;實踐要點&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;定期與團隊分享最新狀況&lt;/li&gt;&#xA;&lt;li&gt;根據不同場合選擇適當的溝通方式&lt;/li&gt;&#xA;&lt;li&gt;培養說故事的能力，使抽象概念具體化&lt;/li&gt;&#xA;&lt;li&gt;建立雙向溝通機制，鼓勵反饋&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;反思與應用&#34;&gt;反思與應用&lt;/h2&gt;&#xA;&lt;p&gt;這本書提醒我們，領導力不僅關乎決策，更關乎如何有效地傳達這些決策。一個好的領導者需要成為一個優秀的溝通者，通過真誠、明確且有策略的溝通方式建立信任，並引導團隊朝共同目標前進。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>快意人生思考</title>
-      <link>http://localhost:1313/posts/%E5%BF%AB%E6%84%8F%E4%BA%BA%E7%94%9F%E6%80%9D%E8%80%83/</link>
-      <pubDate>Mon, 24 Feb 2025 15:36:58 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E5%BF%AB%E6%84%8F%E4%BA%BA%E7%94%9F%E6%80%9D%E8%80%83/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>突破性思維</title>
-      <link>http://localhost:1313/posts/%E7%AA%81%E7%A0%B4%E6%80%A7%E6%80%9D%E7%B6%AD/</link>
-      <pubDate>Mon, 24 Feb 2025 11:30:22 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E7%AA%81%E7%A0%B4%E6%80%A7%E6%80%9D%E7%B6%AD/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

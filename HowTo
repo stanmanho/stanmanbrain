@@ -1,3 +1,7 @@
+# 網站
+https://stanmanbrain.netlify.app/
+
+
 ## Comment system
 https://waline-iota-dusky.vercel.app/ui
 https://console.leancloud.app/apps/0mmN3e6Frx7W72zZRLAuehPU-MdYXbMMI/
@@ -6,9 +10,12 @@ https://vercel.com/stanmanhos-projects/waline/Eqo9if6GmEuBerpmYKj72oh4hu5v
 ## How to Start Hugo locally
     hugo server 
 
-## Website link
-https://stanmanbrain.netlify.app/
+## Website link and Netlify
+
 https://app.netlify.com/sites/stanmanbrain/deploys/67bc281ff07fd80007c93200
+
+# 上傳照片到Cloudinary 
+https://console.cloudinary.com/console/c-12534780ef64e077bcbbf57424d3dc/media_library/search?cld-target-product=digital_asset_management&q=&view_mode=mosaic
 
 
 ## Google Analytics
