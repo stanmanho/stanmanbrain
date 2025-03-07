@@ -10,6 +10,9 @@ https://vercel.com/stanmanhos-projects/waline/Eqo9if6GmEuBerpmYKj72oh4hu5v
 ## How to Start Hugo locally
     hugo server 
 
+## How to create a new post
+    hugo new posts/postName.md
+
 ## Website link and Netlify
 
 https://app.netlify.com/sites/stanmanbrain/deploys/67bc281ff07fd80007c93200
