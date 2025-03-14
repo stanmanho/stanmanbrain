@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag2 on 屎蛋第二腦</title>
-    <link>http://localhost:1313/tags/tag2/</link>
-    <description>Recent content in Tag2 on 屎蛋第二腦</description>
+    <title>企業 on 屎蛋第二腦</title>
+    <link>http://localhost:1313/categories/%E4%BC%81%E6%A5%AD/</link>
+    <description>Recent content in 企業 on 屎蛋第二腦</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 14 Mar 2025 13:47:44 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E4%BC%81%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>自創戰場當老大</title>
       <link>http://localhost:1313/posts/%E8%87%AA%E5%89%B5%E6%88%B0%E5%A0%B4%E7%95%B6%E8%80%81%E5%A4%A7/</link>
